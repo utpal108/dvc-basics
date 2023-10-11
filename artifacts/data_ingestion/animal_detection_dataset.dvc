@@ -1,0 +1,6 @@
+outs:
+- md5: c495d78d28cb1b83927a38ca7caca952.dir
+  size: 9230999
+  nfiles: 398
+  hash: md5
+  path: animal_detection_dataset
